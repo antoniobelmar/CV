@@ -1,10 +1,10 @@
 ## António Belmar da Costa
 
- 	I am a hardworking and curious guy which has lead me to try very different things in terms of studies, professional experiences, geographies and even hobbies. From when I was young, I wanted to meet as many different types of people as possible. I am originally from Portugal but such curiosity lead me to move around between the US, UK, Singapore, Netherlands, Italy and Germany.
+   I am a hardworking and curious guy which has lead me to try very different things in terms of studies, professional experiences, geographies and even hobbies. From when I was young, I wanted to meet as many different types of people as possible. I am originally from Portugal but such curiosity lead me to move around between the US, UK, Singapore, Netherlands, Italy and Germany.
 
- 	I studied both Economics and Management and graduated from the Rotterdam School of Management with a masters degree in 2012. I was immediately attracted into Investment Banking as I was keen to understand more about finance, gain further analytical skills and push myself in the industry. I started as an Debt Capital Markets Analys but later understood that I thrived for a a more direct impact in a business which brought me to start-ups. In the past 4 years I worked in a student accommodation marketplace, a social network for academia and a IT services consultancy in diverse functions from Operations, to Growth Marketing to Finance.
+   I studied both Economics and Management and graduated from the Rotterdam School of Management with a masters degree in 2012. I was immediately attracted into Investment Banking as I was keen to understand more about finance, gain further analytical skills and push myself in the industry. I started as an Debt Capital Markets Analys but later understood that I thrived for a a more direct impact in a business which brought me to start-ups. In the past 4 years I worked in a student accommodation marketplace, a social network for academia and a IT services consultancy in diverse functions from Operations, to Growth Marketing to Finance.
 
-	In such environemnt, you can't help but get to know lots of developers. In fact, I was a product stakeholder in all of my functions which lead me to start playing around with SQL or Wordpress. From there, the rest is history, I started getting more and more into development and joined Makers Academy in September 2017. For the future, I am looking for a role that will allow me to learn as much as possible maximizing exposure to different technologies, products and leadership types.
+   In such environemnt, you can't help but get to know lots of developers. In fact, I was a product stakeholder in all of my functions which lead me to start playing around with SQL or Wordpress. From there, the rest is history, I started getting more and more into development and joined Makers Academy in September 2017. For the future, I am looking for a role that will allow me to learn as much as possible maximizing exposure to different technologies, products and leadership types.
 
 ## Skills
 
@@ -40,21 +40,35 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Rotterdam School of Management (2009 to 2012)
 
-- MSc International Management - CEMS, any specialisms
-- 8/10
-- Student Class President, Exchange Program at the National University of Singapore
+- MSc International Management - CEMS
+- Final GPA: 8/10
+- Key Courses: Accounting – 9.8/10, Corporate Finance – 9.6/10, Supply Chain Management – 8.2/10
+- Student Class President, Exchange Term at the National University of Singapore
 
 #### Nova School of Business and Economics (2006 to 2009)
 
-- BSc Economics, any specialisms
-- 16/20
-- Other cool stuff
+- BSc Economics
+- Final GPA: 16/20
+- Key Courses: Calculus -18/20, Econometrics – 18/20, Microeconomics – 18/20 and Strategy – 18/20
+- Exhange Term at Bocconi University
 
 #### Any other qualifications
 
 ## Experience
 
-**YLD Limited** (start_date to end_date)    
-*Your job title*  
-**ResearchGate** (start_date to end_date)   
-*Your job title*  
+**YLD Limited** (October 2016 - September 2017)    
+*Marketing and Operations Manager*  
+
+**ResearchGate** (March 2016 to October 2016)   
+*Growth Marketing Manager*  
+
+**Uniplaces** (January 2015 to February 2016)   
+*Head of Supply Operations*  
+
+**Uniplaces** (December 2013 to December 2014)   
+*Financial Controller*
+
+**Royal Bank of Scotland** (April 2012 to July 2013)   
+*Debt Capital Markets Analyst*
+
+
