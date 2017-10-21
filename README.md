@@ -4,7 +4,7 @@
 
   I studied both Economics and Management and graduated from the Rotterdam School of Management with a masters degree in 2012. I was immediately attracted into Investment Banking as I was keen to understand more about finance, gain further analytical skills and push myself in the industry. I started as an Debt Capital Markets Analys but later understood that I thrived for a a more direct impact in a business which brought me to start-ups. In the past 4 years I worked in a student accommodation marketplace, a social network for academia and a IT services consultancy in diverse functions from Operations, to Growth Marketing to Finance.
 
-  In such environemnt, you can't help but get to know lots of developers. In fact, I was a product stakeholder in all of my functions which lead me to start playing around with SQL or Wordpress. From there, the rest is history, I started getting more and more into development and joined Makers Academy in September 2017. For the future, I am looking for a role that will allow me to learn as much as possible maximizing exposure to different technologies, products and leadership types.
+	In such environemnt, you can't help but get to know lots of developers. In fact, I was a product stakeholder in all of my functions which lead me to start playing around with SQL or Wordpress. From there, the rest is history, I started getting more and more into development and joined Makers Academy in September 2017. For the future, I am looking for a role that will allow me to learn as much as possible maximizing exposure to different technologies, products and leadership types.
 
 ## Skills
 
