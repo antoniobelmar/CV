@@ -54,7 +54,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
+**YLD Limited** (start_date to end_date)    
 *Your job title*  
-**Company Name** (start_date to end_date)   
+**ResearchGate** (start_date to end_date)   
 *Your job title*  
