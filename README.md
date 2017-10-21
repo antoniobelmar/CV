@@ -8,7 +8,7 @@
 
 ## Skills
 
-#### This Skill
+#### Skill 1
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
