@@ -8,22 +8,13 @@
 
 ## Skills
 
-#### Skill 1
+#### Multi-Tasking
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+Throughout my career I've always had to assume multiple roles in the same company. This happened because I was either involved in a lot of extra activities (in a more corporate context) or simply due to business requirements (in a more start-up context). I thrive on having multiple different challenges at once and I highlight my experience at Uniplaces where at the same time I was leading the Sales, Account Management and Operations teams which had very different profiles, strategies and requirements.
 
-- Experience
-- Achievements
-- Evidence
+#### Communication Skills
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+Throughout university, a lot of emphasis was put on communication and presentation skills as those are becoming more and more important in today's world. I have had to present and communicate very different messages to very different stakeholders and have had experience in tailoring my approach to the different scenarios. In particular, at ResearchGate, I had to define, structure, present and communicate the lead generation strategy going forward to both the Sales, Lead Generation and Executive team which all were focusing on different aspects.
 
 ## Education
 
