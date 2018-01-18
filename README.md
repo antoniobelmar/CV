@@ -16,18 +16,20 @@ Throughout my career I've always had to assume multiple roles in the same compan
 
 Throughout university, a lot of emphasis was put on communication and presentation skills as those are becoming more and more important in today's world. I have had to present and communicate very different messages to very different stakeholders and have had experience in tailoring my approach to the different scenarios. In particular, at ResearchGate, I had to define, structure, present and communicate the lead generation strategy going forward to both the Sales, Lead Generation and Executive team which all were focusing on different aspects.
 
+## Projects
+
+| Project | Description | Technologies |
+| --- | --- | --- |
+| c | b | a |
+| d | e | f |
+
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (2017 to 2018)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Concepts: OOP, TDD, MVC
+- Tech Stack: Ruby, Rails, JavaScript, Node.js, React.js, jQuery, HTML, css, MongoDB, postgreSQL
+- Testing: RSpec, Jasmine, Supertest, Mocha, Chai, Capybara, Selenium, Zombie.js, Sinon
 
 #### Rotterdam School of Management (2009 to 2012)
 
