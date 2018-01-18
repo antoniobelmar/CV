@@ -20,8 +20,9 @@ Throughout university, a lot of emphasis was put on communication and presentati
 
 | Project | Description | Technologies |
 | --- | --- | --- |
-| c | b | a |
-| d | e | f |
+| [Pub Quiz API](https://github.com/antoniobelmar/pub-quiz-api) | b | a |
+| [Pub Quiz App](https://github.com/antoniobelmar/Pub_Quiz_FInalProject) | e | f |
+| [Data Visualization](https://github.com/antoniobelmar/Database-visualization) | e | f |
 
 ## Education
 
