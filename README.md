@@ -12,6 +12,10 @@ I am a full-stack developer who trained at Makers Academy and graduated in Janua
 
 Throughout my career I've always had to assume multiple roles in the same company. This happened because I was either involved in a lot of extra activities (in a more corporate context) or simply due to business requirements (in a more start-up context). I thrive on having multiple different challenges at once and I highlight my experience at Uniplaces where at the same time I was leading the Sales, Account Management and Operations teams which had very different profiles, strategies and requirements.
 
+#### Fast Learning
+
+Even though I had no coding background I feel like I managed the workload of the Makers Academy course decently. That said, I do believe that I pick up things fast. A key example was in our practice projects where I had to learn how to learn how to use Node.js, ensure all code was tested and present a final product. At the end, I am quite proud of my achievements and you can see the final product in the Project sections by clicking on Data Visualization.
+
 #### Communication Skills
 
 Throughout university, a lot of emphasis was put on communication and presentation skills as those are becoming more and more important in today's world. I have had to present and communicate very different messages to very different stakeholders and have had experience in tailoring my approach to the different scenarios. In particular, at ResearchGate, I had to define, structure, present and communicate the lead generation strategy going forward to both the Sales, Lead Generation and Executive team which all were focusing on different aspects.
