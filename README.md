@@ -1,10 +1,8 @@
-## António Belmar da Costa
+# António Belmar da Costa
 
-   I am a hardworking and curious guy which has lead me to try very different things in terms of studies, professional experiences, geographies and even hobbies. From when I was young, I wanted to meet as many different types of people as possible. I am originally from Portugal but such curiosity lead me to move around between the US, UK, Singapore, Netherlands, Italy and Germany.
+[Skills](#skills) | [Education](#education) | [Experience](#experience) | [Sample Projects](#sample-projects) | [Interests](#interests)
 
-   I studied both Economics and Management and graduated from the Rotterdam School of Management with a masters degree in 2012. I was immediately attracted into Investment Banking as I was keen to understand more about finance, gain further analytical skills and push myself in the industry. I started as an Debt Capital Markets Analys but later understood that I thrived for a a more direct impact in a business which brought me to start-ups. In the past 4 years I worked in a student accommodation marketplace, a social network for academia and a IT services consultancy in diverse functions from Operations, to Growth Marketing to Finance.
-
-   In such environemnt, you can't help but get to know lots of developers. In fact, I was a product stakeholder in all of my functions which lead me to start playing around with SQL or Wordpress. From there, the rest is history, I started getting more and more into development and joined Makers Academy in September 2017. For the future, I am looking for a role that will allow me to learn as much as possible maximizing exposure to different technologies, products and leadership types.
+I am a full-stack developer who trained at Makers Academy and graduated in January 2018. I have done projects primarily in Javascript and Ruby using frameworks like Node.js or Rails. I am naturally curious and love the idea of creating usable products. In my past life, I graduated with a MSc International Management from the Rotterdam School of Management in the Netherlands and have worked as an Investment Banking Analyst, Operations Manager at a start-up and as Growth Marketing Manager. I am currently looking for a full-stack developer role in London where I can keep perfecting my software crafting skills.
 
 ## Skills
 
