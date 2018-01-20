@@ -1,6 +1,8 @@
 # António Belmar da Costa
 
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) |
+[Bio](#bio) | [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience)
+
+## Bio
 
 I am a full-stack developer who trained at Makers Academy and graduated in January 2018. I have done projects primarily in Javascript and Ruby using frameworks like Node.js or Rails. I am naturally curious and love the idea of creating usable products. In my past life, I graduated with a MSc International Management from the Rotterdam School of Management in the Netherlands and have worked as an Investment Banking Analyst, Operations Manager at a start-up and as Growth Marketing Manager. I am currently looking for a full-stack developer role in London where I can keep perfecting my software crafting skills.
 
