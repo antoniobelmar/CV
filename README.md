@@ -4,7 +4,7 @@
 
 ## Bio
 
-I am a full-stack developer who trained at Makers Academy and graduated in January 2018. I have done projects primarily in Javascript and Ruby using frameworks like Node.js or Rails. I am naturally curious and love the idea of creating usable products. In my past life, I graduated with a MSc International Management from the Rotterdam School of Management in the Netherlands and have worked as an Investment Banking Analyst, Operations Manager at a start-up and as Growth Marketing Manager. I am currently looking for a full-stack developer role in London where I can keep perfecting my software crafting skills.
+I am a full-stack developer who trained at Makers Academy and graduated in January 2018. I have done projects primarily in Javascript and Ruby using Node.js, React and Rails. I am naturally curious and love the idea of creating usable products. In my past life, I graduated with a MSc International Management from the Rotterdam School of Management in the Netherlands and have worked as an Investment Banking Analyst, Operations Manager at a start-up and as Growth Marketing Manager. I am currently looking for a full-stack developer role in London where I can keep perfecting my software crafting skills.
 
 ## Skills
 
@@ -32,7 +32,7 @@ Throughout university, a lot of emphasis was put on communication and presentati
 
 #### Makers Academy (2017 to 2018)
 
-- Concepts: OOP, TDD, MVC
+- Concepts: Object Oriented Programming, Test-Driven Development, Model-View-Controller pattern
 - Tech Stack: Ruby, Rails, JavaScript, Node.js, React.js, jQuery, HTML, css, MongoDB, postgreSQL
 - Testing: RSpec, Jasmine, Supertest, Mocha, Chai, Capybara, Selenium, Zombie.js, Sinon
 
