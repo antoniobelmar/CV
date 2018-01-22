@@ -25,7 +25,7 @@ Throughout university, a lot of emphasis was put on communication and presentati
 | Project | Description | Technologies |
 | --- | --- | --- |
 | [Pub Quiz API](https://github.com/antoniobelmar/pub-quiz-api) | API back-end for a Pub Quiz App | Javascript, Node.js, ws, express, Mocha, Chai, Sinon, Supertest, Mongoose, MongoDB |
-| [Pub Quiz App](https://github.com/antoniobelmar/Pub_Quiz_FInalProject) | Real time Pub Quiz App | Javascript, React.js, Mocha, Chai, Zombie.js, Sinon, Enzyme |
+| [Pub Quiz App](https://github.com/antoniobelmar/Pub-Quiz-App) | Real time Pub Quiz App | Javascript, React.js, Mocha, Chai, Zombie.js, Sinon, Enzyme |
 | [Data Visualization](https://github.com/antoniobelmar/Database-visualization) | App to visualize data from a database | Javascript, Node.js, express, Mocha, Chai, supertest, selenium, jQuery, chart.js |
 
 ## Education
